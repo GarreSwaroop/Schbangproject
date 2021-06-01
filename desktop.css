@@ -1,0 +1,36 @@
+.main-section-container{
+	background-color: #FCC517;
+	width:1440px;
+	height: 750px;
+}
+.main-section-container p{
+	font-family: Roboto Slab;
+	font-weight: 500;
+	font-size: 12px;
+	color: #FFFFFF;
+}
+nav{
+	width:1380px;
+	height: 80px;
+	padding-top: 20px;
+	padding-left: 29px;
+	padding-right: 30px;
+	background-color: #FCC517;
+}
+.nav-item{
+	font-family: Roboto Slab;
+	font-weight: 400;
+	color: #FFFFFF;
+	line-height: 25px;
+}
+#something{
+	font-family: 'Caveat Brush';
+	font-weight:400;
+	font-size: 90px;
+	line-height: 89px;
+}
+.second-section{
+	background-color: #FFF1BE;
+	width:1440px;
+	height: 750px;
+}
